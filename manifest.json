@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "repo": "Junkos_Flowers3",
+  "baseUrl": "https://raw.githubusercontent.com/Willdeluna/Junkos_Flowers3/main/",
+  "updated": "2026-06-15",
+  "flowers": [
+    {
+      "id": "whiterose",
+      "name": "White Rose",
+      "kind": "bloom",
+      "file": "flowers/whiterose.glb",
+      "thumbnail": "thumbnails/whiterose.png"
+    }
+  ],
+  "vases": [
+    {
+      "id": "cylinder",
+      "name": "Cylinder Vase",
+      "kind": "vase",
+      "file": "vases/cylinder.glb",
+      "thumbnail": "thumbnails/cylinder.png"
+    }
+  ]
+}
