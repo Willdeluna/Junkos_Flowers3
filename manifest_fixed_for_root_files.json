@@ -1,0 +1,38 @@
+[
+  {
+    "id": "redrose",
+    "name": "Red Rose",
+    "kind": "bloom",
+    "file": "Red Rose.glb"
+  },
+  {
+    "id": "pinkrose1",
+    "name": "Pink Rose 1",
+    "kind": "bloom",
+    "file": "Pink Rose 1.glb"
+  },
+  {
+    "id": "pinkrose2opt",
+    "name": "Pink Rose 2 Opt",
+    "kind": "bloom",
+    "file": "Pink Rose 2_opt.glb"
+  },
+  {
+    "id": "orchid2",
+    "name": "Orchid 2",
+    "kind": "bloom",
+    "file": "Orchid 2.glb"
+  },
+  {
+    "id": "hibiscus",
+    "name": "Hibiscus",
+    "kind": "bloom",
+    "file": "hibiscus.glb"
+  },
+  {
+    "id": "redroses3",
+    "name": "Red Roses 3",
+    "kind": "bloom",
+    "file": "redroses3 (1).glb"
+  }
+]
